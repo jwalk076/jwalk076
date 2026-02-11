@@ -4,7 +4,9 @@
 
 - [RAG SOC Assistant](https://github.com/jwalk076/RAG-SOC-Assistant)
 
-- [ThreatMap AI](https://github.com/NehemiaAraia/ThreatMap-AI)
+- [ThreatMap AI](https://github.com/jwalk076/ThreatMap-AI)
+
+- [Secure Cloud Deployment](https://github.com/jwalk076/Secure-Cloud-Deployment)
 
 
 
